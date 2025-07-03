@@ -19,7 +19,7 @@ logo_filename = "data/logo-kielregion.png"
 
 
 # --- Streamlit Configuration ---
-st.set_page_config(page_title="Verfügbarkeitsmonitor | Sprottenflotte", page_icon="🚲", layout="wide")
+st.set_page_config(page_title="Verfügbarkeitsmonitor | SprottenFlotte", page_icon="🚲", layout="wide")
 
 # --- Helper Function - Reset the app ---
 def reset_app():
@@ -37,7 +37,7 @@ def main():
     # --- initialise ---
     # Initialise Streamlit Interface
     st.image(logo_filename, use_column_width=False, width=150)
-    st.title("Verfügbarkeitsmonitor | Sprottenflotte")
+    st.title("Verfügbarkeitsmonitor | SprottenFlotte")
     
     # Create sidebar to choose between Random Forest and DL Model
     with st.sidebar:
