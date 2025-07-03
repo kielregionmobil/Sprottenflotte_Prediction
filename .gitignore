@@ -1,0 +1,22 @@
+# Ignore environment file
+.env
+
+# Ignore Sublime Text files.
+*.sublime-workspace
+
+# Ignore environment file
+.env
+
+# Ignore virtual environment files
+.venv
+
+# Ignore Python Cache directory
+__pycache__
+
+# Ignore cache folder
+cache/
+
+# requirements file
+requirements.txt
+
+.DS_Store

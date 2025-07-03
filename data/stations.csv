@@ -1,0 +1,199 @@
+entityId,station_name,maximum_capacity,latitude,longitude,subarea
+30434,Felde Gemeindezentrum,18,54.299552,9.933817,Felde
+30207,Sporthalle Saxtorfer Weg,15,54.487005,9.835833,Eckernförde
+30151,Eiche Daenischenhagen,15,54.424663,10.127872,Kiel Norden
+30147,Bushaltestelle Eiderbruecke,15,54.289706,10.090042,Kiel Umland
+30146,Herzog Friedrich Strasse  ZOB ,25,54.317114,10.133099,Kiel Innenstadt
+30145,Rondeel,15,54.308532,10.125048,Kiel Innenstadt
+30121,TOeZ Eckernfoerde ,12,54.445586,9.832705,Eckernförde
+30120,Martinshaus,15,54.290136,9.653606,Rendsburg
+30027,REWE Klausdorf,15,54.31219,10.200471,Kiel Osten
+30026,Ostseepark,15,54.288794,10.217716,Kiel Umland
+30025,Stadtwerke   Buergerhaus Klausdorf,15,54.303372,10.215618,Kiel Osten
+30024,Bahnhof Raisdorf,15,54.28116,10.242978,Kiel Umland
+30022,Rathaus Schwentinental,15,54.2843,10.240566,Kiel Umland
+29965,B502 Schoenkirchener Strasse ,10,54.329658,10.196194,Kiel Osten
+29964,Langer Rehm P R,10,54.339102,10.19016,Kiel Osten
+29963,Langer Rehm  Rewe ,10,54.336643,10.189744,Kiel Osten
+29946,Woerthstrasse,10,54.323765,10.118694,Kiel Innenstadt
+29663,GTZ Raisdorf,15,54.291489,10.226465,Kiel Umland
+29347,Hollerstrasse Nord,15,54.322111,9.692483,Rendsburg
+29346,Wilhelmstrasse,15,54.315754,9.68073,Rendsburg
+29345,Rathaus Buedelsdorf,15,54.315943,9.670588,Rendsburg
+29253,Rieseby Alte Post ,15,54.542271,9.818097,Eckernförde Umland Norden
+29200,REWE digital am Wissenschaftszentrum,15,54.341647,10.122253,Kiel Westen
+29112,Felde Dorfplatz,15,54.303857,9.93739,Felde
+29109,Felde Bahnhof ,15,54.309801,9.946644,Felde
+29049,Falkemedia,15,54.339302,10.215208,Kiel Osten
+28932,Gammelby Ort ,15,54.500261,9.794275,Eckernförde
+28813,Langholz,15,54.516477,9.979997,Eckernförde Umland Norden
+28804,Karby   Am Ring,15,54.62363,9.97642,Eckernförde Umland Norden
+28803,Windeby   Friedland,15,54.458961,9.784161,Eckernförde
+28802,Kochendorf,15,54.474377,9.774602,Eckernförde
+28801,Waabs   Seestrasse ,15,54.551866,9.993341,Eckernförde Umland Norden
+28800,Waabs   Muehlenstrasse,15,54.532688,9.984947,Eckernförde Umland Norden
+28799,Waabs Haltestelle Abzw  Langholz,15,54.526682,9.968479,Eckernförde Umland Norden
+28798,Rieseby Bahnhof,15,54.541178,9.820676,Eckernförde Umland Norden
+28797,Loose,15,54.52195,9.88207,Eckernförde Umland Norden
+28796,Kosel Ort,6,54.5042,9.75402,Eckernförde
+28795,Holzdorf ,15,54.55162,9.89846,Eckernförde Umland Norden
+28794,Holzdorf   Neu Seeholz,15,54.55693,9.90928,Eckernförde Umland Norden
+28793,Goosefeld,15,54.43037,9.8141,Eckernförde
+28792,Goetheby Holm,15,54.484311,9.713093,Eckernförde
+28791,Fleckeby   Schmiederedder,15,54.481444,9.695621,Eckernförde
+28790,ZOB Vogelsang Gruenholz,15,54.571396,9.955614,Eckernförde Umland Norden
+28789,Mehrzweckhalle Barkelsby,15,54.50248,9.83552,Eckernförde
+28738,Prasdorf,15,54.378964,10.295342,Schönberg
+28264,Freudenholm,20,54.216857,10.312672,Preetz
+27717,Gemeinschaftsschule Preetz,20,54.224604,10.280925,Preetz
+27567,Lutterbek,15,54.392303,10.276165,Schönberg
+27452,Lamp sche Koppel,15,54.395033,10.379145,Schönberg
+27451,Schoenberg Eichkamp,15,54.387144,10.380611,Schönberg
+27450,Wisch Ort,15,54.408917,10.341622,Schönberg
+27449,Wisch Heidkate,30,54.433856,10.319238,Schönberg
+27448,Wendtorf Marina,30,54.417324,10.283525,Schönberg
+27447,Wendtorf Edeka,20,54.411912,10.285885,Schönberg
+27446,Stoltenberg Doerpshus,15,54.344644,10.347584,Schönberg
+27445,Stein Dorfring,30,54.416552,10.26938,Schönberg
+27444,Probsteierhagen Friedhof,15,54.364161,10.29395,Schönberg
+27443,Passade   Bushaltestelle Passade Ort,15,54.366405,10.317153,Schönberg
+27442,Krummbek   Bushaltestelle,15,54.378543,10.399927,Schönberg
+27441,Fiefbergen   Bushaltestelle,15,54.379139,10.342998,Schönberg
+27440,Brodersdorf Dorfplatz,15,54.386268,10.248966,Kiel Osten
+27382,Brekendorf Markttreff,15,54.421242,9.628489,Owschlag
+27381,Am Doerpshus Borgstedt,20,54.331671,9.70882,Rendsburg
+27380,Owschlag ZOB,15,54.3931,9.590965,Owschlag
+27379,Owschlag Schule,15,54.392636,9.598201,Owschlag
+27378,Owschlag Flachsberg,15,54.391264,9.602101,Owschlag
+27377,Owschlag Haltestelle Muusfall,15,54.399319,9.581601,Owschlag
+27376,Owschlag Alter Bloecken,15,54.398366,9.575117,Owschlag
+27375,Holzbunge,15,54.379767,9.707527,Rendsburg
+27374,Osterby,15,54.453385,9.753969,Eckernförde
+27373,Sehestedt Markttreff,15,54.365043,9.817198,Rendsburg
+27372,Gross Wittensee,15,54.404468,9.769934,Eckernförde
+27183,Schilksee Olympiazentrum,30,54.425453,10.168224,Kiel Norden
+26889,Wilhelmplatz,30,54.322734,10.121238,Kiel Innenstadt
+26805,Amt Molfsee,15,54.281617,10.079457,Kiel Umland
+26730,Schoenberger Strand,30,54.412817,10.414665,Schönberg
+26725,Kalifornien ,30,54.42545,10.375269,Schönberg
+26724,Bahnhof Schoenberg,20,54.387004,10.374004,Schönberg
+26708,Schule Mielkendorf,25,54.284455,10.037526,Kiel Umland
+26653,Feuerwehrhaus Schoenberg,15,54.394614,10.372594,Schönberg
+26224, Wik  Kanalfaehre   Busstation,20,54.365507,10.131589,Kiel Norden
+26209,Kanalfaehre Holtenau,20,54.368794,10.133953,Kiel Norden
+24482,Markt Preetz,30,54.23567,10.28186,Preetz
+24481,Kieler Innovations  und Technologiezentrum,20,54.334639,10.119389,Kiel Westen
+24479,Klinik Preetz,20,54.23905,10.27956,Preetz
+24478,Kreisverwaltung Ploen,25,54.155724,10.407949,Plön
+24476,Kurt Schumacher Platz,20,54.322339,10.053624,Kiel Westen
+24475,Stadthalle Eckernfoerde,20,54.46846,9.83958,Eckernförde
+24474,Russeer Weg   Hofholzallee,20,54.317015,10.066768,Kiel Westen
+24473,Aalborgring,25,54.316404,10.048583,Kiel Westen
+24472,Ascheberger Parkplatz,20,54.152798,10.404486,Plön
+24471,Krausstrasse,20,54.333677,10.122391,Kiel Westen
+24469,Seefischmarkt,20,54.32842,10.17724,Kiel Osten
+24468,Catharinenberg,20,54.264403,10.0656,Kiel Umland
+24467,Zur Faehre,19,54.31617,10.1429,Kiel Osten
+24466,Sandkrug,15,54.31634,10.14607,Kiel Osten
+24465,UKSH,25,54.329415,10.14013,Kiel Innenstadt
+24464,Brandenburger Platz,20,54.243031,10.273862,Preetz
+24463,Haimkrogkoppel,20,54.243001,10.299392,Preetz
+24462,Foerde Sparkasse Sehestedter Strasse,20,54.460136,9.837995,Eckernförde
+24461,Prinzenstrasse,14,54.48086,9.85106,Eckernförde
+24460,Bystedtredder,20,54.4814,9.82645,Eckernförde
+24459,Wentorper Platz,15,54.157858,10.412915,Plön
+24458,Bahnhof Ploen,30,54.159606,10.422293,Plön
+24457,Studiale,16,54.337879,10.124432,Kiel Westen
+24456,Lilienstrasse   Krankenhaus ,25,54.296248,9.65776,Rendsburg
+24455,Paradeplatz,30,54.300393,9.665565,Rendsburg
+24454,Freilichtmuseum Molfsee,10,54.274827,10.074943,Kiel Umland
+24453,Kronshagen Bahnhof,25,54.331388,10.083113,Kiel Westen
+24452,ZOB Rendsburg,20,54.303083,9.668583,Rendsburg
+24451,Bahnhof Preetz,30,54.233676,10.276218,Preetz
+24450,Schulen am Langsee,25,54.307029,10.157109,Kiel Osten
+24449,Bebelplatz,20,54.294629,10.185079,Kiel Umland
+24448,Bahnhof Russee,15,54.309867,10.06956,Kiel Westen
+24447,Bahnhalt Ellerbek,20,54.313927,10.169784,Kiel Osten
+24446,Wakendorf,20,54.250817,10.295331,Preetz
+24445,Schwimmhalle Preetz,15,54.241235,10.265307,Preetz
+24444,Kuehrener Strasse,25,54.224444,10.275525,Preetz
+24443,Preetz  Kieler Str ,25,54.24489,10.277036,Preetz
+24442,Rathaus Heikendorf,20,54.370727,10.205576,Kiel Osten
+24441,Meimersdorf Kontor,15,54.283892,10.131535,Kiel Umland
+24440,Foerde Sparkasse Teplitzer Allee,20,54.292041,10.187263,Kiel Umland
+24439,Foerde Sparkasse Fockbek,20,54.307756,9.605646,Rendsburg
+24438,Foerde Sparkasse Preetz,15,54.2359,10.280925,Preetz
+24437,Markt Ploen,20,54.158341,10.417886,Plön
+24436,Foerde Sparkasse Lorentzendamm,20,54.325963,10.134318,Kiel Innenstadt
+24435,Wulfsteert,20,54.45558,9.83387,Eckernförde
+24434,Parkplatz Suedstrand,40,54.450815,9.855381,Eckernförde
+24433,Langebrueckstrasse   Commerzbank ,25,54.47254,9.8363,Eckernförde
+24432,Kurpark,25,54.46292,9.84079,Eckernförde
+24431,Hafen Eckernfoerde,30,54.47477,9.83861,Eckernförde
+24430,Fischerkoppel   BBZ,25,54.47767,9.83707,Eckernförde
+24429,Carlshoehe,15,54.48549,9.80807,Eckernförde
+24428,Busparkplatz Sauerstrasse   Schulzentrum Sued,25,54.44914,9.84185,Eckernförde
+24427,Eckernfoerde  Bahnhof ,40,54.46828,9.83553,Eckernförde
+24426,WFG Rendsburg,15,54.296658,9.663799,Rendsburg
+24425,Schiffbrueckenplatz,20,54.304861,9.661167,Rendsburg
+24424,Gruener Kranz,20,54.30789,9.650066,Rendsburg
+24423,Fussgaengertunnel Nordseite,20,54.291789,9.663878,Rendsburg
+24422,Faehre Nobiskrug,20,54.308426,9.709962,Rendsburg
+24421,Bahnhof Rendsburg,20,54.302036,9.670466,Rendsburg
+24420,Kreishaus Rendsburg,15,54.297854,9.670029,Rendsburg
+24419,ADAC Station,25,54.312104,10.110267,Kiel Westen
+24418,Stolbergring,15,54.46225,9.82598,Eckernförde
+24417,Sophienhof,30,54.316629,10.129724,Kiel Innenstadt
+24416,Rungholtplatz,30,54.361297,10.076831,Kiel Westen
+24415,KVG Betriebshof Diedrichstrasse,20,54.302799,10.136963,Kiel Osten
+24414,Kuhlacker,20,54.285725,10.143565,Kiel Umland
+24413,Bernhard Minetti Platz,20,54.337864,10.133126,Kiel Westen
+24412,MEKUN Olympiahochhaus,30,54.355269,10.131253,Kiel Norden
+24411,Grot Steenbusch,20,54.2832,10.130672,Kiel Umland
+24410,Bunsenstrasse,20,54.27697,10.158649,Kiel Umland
+24409,Braunstrasse,20,54.280427,10.1456,Kiel Umland
+24408,thyssenkrupp Marine Systems,27,54.316436,10.15131,Kiel Osten
+24407,Rathaus Altenholz,20,54.386203,10.136875,Kiel Norden
+24406,Bahnhof Oppendorf,20,54.326055,10.207911,Kiel Osten
+24405,Marine Ehrenmal,20,54.411667,10.228306,Schönberg
+24404,Bullbruecke,20,54.397494,10.233223,Kiel Osten
+24403,Hafen Laboe,30,54.40336,10.219689,Schönberg
+24402,Stadtteilzentrum Pries,21,54.395459,10.173146,Kiel Norden
+24401,Dataport FHVD,30,54.401894,10.129012,Kiel Norden
+24400,Anleger Friedrichsort,30,54.390373,10.177173,Kiel Norden
+24399,Exerzierplatz,30,54.321583,10.128389,Kiel Innenstadt
+24398,Rathausplatz,30,54.322361,10.133861,Kiel Innenstadt
+24397,Hauptbahnhof,42,54.315972,10.132278,Kiel Innenstadt
+24396,Rathaus Waisenhofstrasse,25,54.321722,10.132444,Kiel Innenstadt
+24395,Wellingdorf Stadtteilzentrum,25,54.326139,10.183028,Kiel Osten
+24394,KiTa Fusssteigkoppel,20,54.342126,10.090524,Kiel Westen
+24393,Tilsiter Platz,30,54.32325,10.17025,Kiel Osten
+24392,Andreas Gayk Strasse,30,54.318199,10.134068,Kiel Innenstadt
+24391,Bluecherplatz,30,54.341722,10.136861,Kiel Westen
+24390,CITTI PARK,30,54.311667,10.099722,Kiel Westen
+24389,Hansastr  Gutenbergstr ,20,54.332111,10.124861,Kiel Westen
+24388,Schoenkirchen Gemeindehaus,20,54.339056,10.223028,Kiel Osten
+24387,Moenkeberg Anleger,25,54.351445,10.178445,Kiel Osten
+24386,Faehranleger Moeltenort,14,54.376793,10.196216,Kiel Osten
+24385,Dreiecksplatz,15,54.328528,10.134417,Kiel Innenstadt
+24384,CAU Universitaetsbibliothek,40,54.346612,10.112408,Kiel Westen
+24383,CAU Sportstaetten,35,54.343444,10.111139,Kiel Westen
+24381,Westring Eckernfoerder Str ,30,54.328543,10.117925,Kiel Westen
+24380,Vinetaplatz,20,54.311417,10.146972,Kiel Osten
+24379,RBZ Wirtschaft,30,54.340743,10.126604,Kiel Westen
+24378,Muthesius Kunsthochschule,20,54.327389,10.128333,Kiel Innenstadt
+24377,Kronshagen Rathaus,25,54.332704,10.085497,Kiel Westen
+24376,Kirchhofallee,20,54.316194,10.120583,Kiel Innenstadt
+24375,Hoernbad,30,54.308643,10.135253,Kiel Osten
+24374,Holsten  Hafenstrasse,20,54.321,10.135389,Kiel Innenstadt
+24373,Christian Albrechts Platz,30,54.338651,10.123843,Kiel Westen
+24372,Bahnhof Suchsdorf,20,54.349822,10.090947,Kiel Westen
+24371,Anleger Reventlou,50,54.333647,10.151714,Kiel Innenstadt
+24370,Alter Markt,25,54.322799,10.139499,Kiel Innenstadt
+24369,Alte Mu Brunswiker Str ,15,54.327583,10.1415,Kiel Innenstadt
+24368,Umsteiger,22,54.314861,10.131167,Kiel Innenstadt
+24367,Anleger Dietrichsdorf,30,54.329611,10.178556,Kiel Osten
+30023,Freibad Raisdorf  saisonal bis 22 09 24 ,15,54.285998,10.246081,Kiel Umland
+30515,Alte Luebecker Chaussee,15,54.3045643,10.1254699,Kiel Innenstadt
+24470,Fegetasche,20,54.153741,10.449131,Plön
+28814,Waabs Strand,15,54.525,9.999951,Eckernförde Umland Norden

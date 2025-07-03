@@ -1,0 +1,30 @@
+[tool.poetry]
+name = "Sprottenflotte_Prediction"
+version = "0.1.0"
+description = ""
+authors = [
+    "Claas Resow <claas.resow@dwins.de>",
+    "Justus Heilingbrunner <justus.heilingbrunner@gmail.com>"
+]
+readme = "README.md"
+package-mode = false
+
+[tool.poetry.dependencies]
+python = ">=3.12,<3.13"
+streamlit = "==1.37.1"
+pyyaml = "==6.0.2"
+pandas = "==2.2.2"
+plotly = "==5.22"
+numpy = "==1.26"
+requests = "==2.32.3"
+python-dotenv = "==1.0.1"
+torch = "==2.5.1"
+joblib = "==1.4.2"
+scikit-learn = "==1.5.2"
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
+
+[tool.poetry.scripts]
+main = "Sprottenflotte_Prediction.main:main"
