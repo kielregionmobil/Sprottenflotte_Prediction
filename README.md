@@ -1,10 +1,10 @@
 # Sprottenflotte Prediction Tool
 
-- Current Version available with this link: [https://sprottenflotte-project.streamlit.app/](https://sprottenflotte-project.streamlit.app/)
+- Current Version available with this link: [https://sprottenflotte-prediction.streamlit.app/](https://sprottenflotte-prediction.streamlit.app/)
 
 ## Overview
 
-The Sprottenflotte Prediction Tool is an advanced application built using Streamlit that predicts the availability of bicycles using machine learning techniques. By integrating live data from various APIs, the tool provides real-time predictions and insights. It leverages different predictive models, including deep learning models (e.g., BiLSTM) and ensemble techniques like Random Forest. The primary aim is to enhance service efficiency by anticipating bicycle availability across different stations, aiding in better resource allocations.
+The SprottenFlotte Prediction Tool is an advanced application built using Streamlit that predicts the availability of bicycles using machine learning techniques. By integrating live data from various APIs, the tool provides real-time predictions and insights. It leverages different predictive models, including deep learning models (e.g., BiLSTM) and ensemble techniques like Random Forest. The primary aim is to enhance service efficiency by anticipating bicycle availability across different stations, aiding in better resource allocations.
 
 ## Structure
 
